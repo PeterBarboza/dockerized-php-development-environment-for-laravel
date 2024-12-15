@@ -1,12 +1,8 @@
 # Dockerized PHP Development Environment for Laravel
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 32px">
-  <p align="center">
-    <img src="./assets/docker-logo.png" width="200" />
-    <img src="./assets/php-logo.png" width="200" />
-    <img src="./assets/laravel-logo.png" width="200" />
-  </p>
-</div>
+<p align="center">
+  <img src="./assets/logo.png" width="664" />
+</p>
 
 ## Description
 
